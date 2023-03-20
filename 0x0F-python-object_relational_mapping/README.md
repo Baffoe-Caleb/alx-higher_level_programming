@@ -1,12 +1,12 @@
-# 0x0F. Object-relational mapping
-Project done during **Full Stack Software Engineering studies** at **ALX Africa**. It aims to learn about how to connect to a MySQL database from a Python script, what ORM means and how to map a Python Class to a MySQL table.
+# Object-relational mapping
+Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to connect to a MySQL database from a Python script, what ORM means and how to map a Python Class to a MySQL table.
 
 ## Technologies
-* `MySQL 8.0` (version 8.0.8-rc)
-* `MySQLdb`, version 2.1.10
-* `sqlalchemy`, version 1.4.45
-* Python Scripts are written with Python 3.8.5
-* Tested on Ubuntu 20.04 LTS
+* `MySQL 5.7` (version 5.7.8-rc)
+* `MySQLdb`, version 1.3.10
+* `sqlalchemy`, version 1.2.5
+* Python Scripts are written with Python 3.4.3
+* Tested on Ubuntu 14.04 LTS
 
 ## Files
 
